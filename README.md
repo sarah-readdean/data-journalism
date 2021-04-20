@@ -11,3 +11,5 @@ _to practice..._
 * Set up our GitHub accounts
 
 And now we're learning how to use it!
+
+We need to figure this out.
