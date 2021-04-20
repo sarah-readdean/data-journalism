@@ -10,4 +10,4 @@ _to practice..._
 * Had Luciano's Lightning Talk
 * Set up our GitHub accounts
 
-And now we're learning how to use it!
+And now we're learning how to use it! (And *loving* it!)
